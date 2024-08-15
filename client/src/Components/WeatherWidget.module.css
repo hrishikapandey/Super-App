@@ -1,0 +1,14 @@
+.container {
+    height: 100%;
+    width: 100%;
+    background: #5746EA;
+    border-radius: 20px;
+    padding: 20px;
+    display: flex;
+    flex-direction: column;
+}
+.header{
+    display: flex;
+    justify-content: space-around;
+    background-color:#ff4ade ;
+}
